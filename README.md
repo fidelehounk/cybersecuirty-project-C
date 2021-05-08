@@ -10,6 +10,8 @@ Webserver in their DMZ.
 
 Project C Design 
 
-![image](https://user-images.githubusercontent.com/78877077/117555075-99762c00-b021-11eb-9b0c-51cafcf77229.png)
+![image](https://user-images.githubusercontent.com/78877077/117555289-91b78700-b023-11eb-9ec9-795759a1610a.png)
+
+Design in virtualBox
 
 ![image](https://user-images.githubusercontent.com/78877077/117555100-e65a0280-b021-11eb-9aef-82e58132d777.png)
